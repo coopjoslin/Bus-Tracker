@@ -1,7 +1,7 @@
 # Bus Tracker project
 ## Created with starter code from MIT xPro program
 ### Description
-  This project tracks buses going between the MIT and Harvard campuses, with animated icons on the map.
+  This project tracks bus stops going between the MIT and Harvard campuses, with animated icons on the map.
   
 ### How to Run
   To run this program, click the button on index.html and the map will appear.
